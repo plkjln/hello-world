@@ -11,5 +11,5 @@ I am creating a series of repositories, all with different fundamentals of Swift
 
 Feel free to comment, post changes or suggest me to incorporate things in my various folders. All folders are public so anyone can access them on the go. 
 
-Happy Learning!!
+Happy Learning!!  :smiley:
 
