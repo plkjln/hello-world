@@ -9,13 +9,13 @@ I love travelling and exploring placed, hiking and camping. I even blog about th
 
 Here, I am creating a series of repositories, some with different fundamentals of Swift and some with apps on Android. 
 
-# ANDROID
+#### ANDROID
 I am working on NodeJS, Express, AngularJS, Backbone JS, native JavaScript, MongoDB/MySQL, HTML5/CSS3 withPlay, Ionic and Cordova frameworks. I will be uploading my own apps and other challenges on the go.
 
-# SWIFT:
+#### SWIFT
 From basics to intermediate and eventually expert level. Most of the coding available in these repositories is compatible with Swift 3.0. Few are till 2.2 which will be updated soon.
 
-SO feel free to comment, post changes or suggest me to incorporate things in my various folders. All folders are public so anyone can access them on the go. 
+So feel free to comment, post changes or suggest me to incorporate things in my various folders. All folders are public so anyone can access them on the go. 
 
 Happy Learning!!  :smiley:
 
