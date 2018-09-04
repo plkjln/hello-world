@@ -3,9 +3,9 @@
 Hi World!
 
 Palak here. I like building apps. 
-Exploring new coding ways and learning simple approach for UI design and View creation for iOS/android applications.
+Exploring new coding ways and learning simple approach for application development. From UI design and View creation to easy data access in MySQL/MongoDB or Coredata for iOS/android applications.
 
-I love travelling and exploring placed, hiking and camping. I even blog about them, making customized itineraries with various suggestions for saty,food and things to do. 
+I love travelling and exploring places, hiking and camping. I even blog about them, making customized itineraries with various suggestions for saty,food and things to do. 
 
 Here, I am creating a series of repositories, some with different fundamentals of Swift and some with apps on Android. 
 
